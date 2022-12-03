@@ -1,2 +1,2 @@
 # numerical-methods
-Python project for Programming in Python course at AUBG
+For my project in Python I decided to implement numerical methods for differentiation and integration.
