@@ -1,0 +1,2 @@
+cos(x)-sin(x/2),-1*pi,2*pi,7,CompositeSimpsons
+cos(x)-sin(x/2),-1*pi,2*pi,7,CompositeTrapezoidal
